@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Amin Marheraoui</h1>
-<h3 align="center">Etudiant en 2e année de BUT Informatique à l'IUT de Paris - Rives de Seine - Université de Paris.</h3>
+<h3 align="center">Etudiant en 3e année de Licence MIAGE à l'IUT de Paris - Rives de Seine - Université de Paris Cité.</h3>
 
 - 👨‍💻 Mon portfolio est disponible ici [https://aminmarh.github.io/](https://aminmarh.github.io/)
 
