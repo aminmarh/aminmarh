@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Amin Marheraoui</h1>
-<h3 align="center">Etudiant en 3e année de Licence MIAGE à l'IUT de Paris - Rives de Seine - Université de Paris Cité.</h3>
+<h3 align="center">Etudiant en 1er année de Master MIAGE à l'Université de Paris Cité.</h3>
 
 - 📫 Me contacter ? **amin.marheraoui@hotmail.com**
 
