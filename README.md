@@ -1,6 +1,4 @@
 +++
-# 📄 GitHub README de Présentation - Amin Marheraoui
-
 <h1 align="center">Salut 👋, je suis Amin Marheraoui</h1>
 <h3 align="center">Étudiant en 1ère année de Master MIAGE à l'Université de Paris Cité.</h3>
 
