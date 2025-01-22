@@ -1,17 +1,89 @@
++++
+# 📄 GitHub README de Présentation - Amin Marheraoui
+
 <h1 align="center">Salut 👋, je suis Amin Marheraoui</h1>
-<h3 align="center">Etudiant en 1er année de Master MIAGE à l'Université de Paris Cité.</h3>
+<h3 align="center">Étudiant en 1ère année de Master MIAGE à l'Université de Paris Cité.</h3>
 
-- 📫 Me contacter ? **amin.marheraoui@hotmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌟 À propos de moi
+
+- 🎓 Actuellement en Master MIAGE.
+- 📊 Passionné par la gestion de données, le développement backend et frontend.
+- 📫 **Me contacter :** [amin.marheraoui@hotmail.com](mailto:amin.marheraoui@hotmail.com)
+
+---
+
+### 🤝 Connectez-vous avec moi :
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amin-marheraoui-656b19235/(https://www.linkedin.com/in/amin-marheraoui/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amin-marheraoui-656b19235/" height="30" width="40" /></a>
-<a href="https://discord.gg/amin#0509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amin#0509" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/amin-marheraoui/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/amin#0509" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminmarh&show_icons=true&locale=en" alt="aminmarh" /></p>
+### 💻 Langages et Compétences
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminmarh&" alt="aminmarh" /></p>
+#### Gestion des données :
+- **Langages de bases de données :** 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
+
+- **Outils d'analyse et de visualisation de données :** 
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="Excel" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/visual-basic.png" alt="VBA" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40" />
+
+#### Backend :
+- **Langages :**
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="VB.NET" width="40" height="40" />
+  
+- **Conteneurisation :**
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+
+#### Management :
+- **Outils de gestion de projet :**
+  <img src="https://img.icons8.com/color/48/jira.png" alt="Jira" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/trello.png" alt="Trello" width="40" height="40" />
+  
+- **Méthodologies :** Méthode Agile (Scrum), Gestion de projet en V.
+
+#### Frontend :
+- **Langages :**
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  
+- **Frameworks :**
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+
+#### Outils de développement :
+- **Environnements de développement :**
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40" />
+  
+- **Gestion de versions :**
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/bitbucket.png" alt="Bitbucket" width="40" height="40" />
+
+---
+
+### 📊 Statistiques GitHub
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminmarh&show_icons=true&locale=en" alt="Statistiques GitHub de Amin Marheraoui" /> </p> <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminmarh" alt="Streak GitHub de Amin Marheraoui" /> </p> 
+
++++
